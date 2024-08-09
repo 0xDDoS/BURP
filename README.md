@@ -11,4 +11,5 @@ chmod +x /usr/share/burp/burploader.jar
 chmod +x /usr/share/burp/burpsuite_pro_v2024.6.3.jar
 touch  /bin/burp
 java -jar /usr/share/burp/burploader.jar
+chmod +x /bin/burp
 ```
